@@ -1,0 +1,7 @@
+
+---
+bogdan@dmitry-MS-7816:~$ curl -u foo:bar -k https://127.0.0.1:55000?pretty
+curl: (35) gnutls_handshake() failed: The TLS connection was non-properly terminated.
+---
+
+
